@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Dev-camper/static/css/main.d24cc473.chunk.css",
+    "main.js": "/Dev-camper/static/js/main.17d67f7d.chunk.js",
+    "main.js.map": "/Dev-camper/static/js/main.17d67f7d.chunk.js.map",
+    "runtime-main.js": "/Dev-camper/static/js/runtime-main.704d472d.js",
+    "runtime-main.js.map": "/Dev-camper/static/js/runtime-main.704d472d.js.map",
+    "static/css/2.daadad96.chunk.css": "/Dev-camper/static/css/2.daadad96.chunk.css",
+    "static/js/2.7a817f64.chunk.js": "/Dev-camper/static/js/2.7a817f64.chunk.js",
+    "static/js/2.7a817f64.chunk.js.map": "/Dev-camper/static/js/2.7a817f64.chunk.js.map",
+    "index.html": "/Dev-camper/index.html",
+    "precache-manifest.ac8ce82dee93a6a5d6d3667329189240.js": "/Dev-camper/precache-manifest.ac8ce82dee93a6a5d6d3667329189240.js",
+    "service-worker.js": "/Dev-camper/service-worker.js",
+    "static/css/2.daadad96.chunk.css.map": "/Dev-camper/static/css/2.daadad96.chunk.css.map",
+    "static/css/main.d24cc473.chunk.css.map": "/Dev-camper/static/css/main.d24cc473.chunk.css.map",
+    "static/js/2.7a817f64.chunk.js.LICENSE.txt": "/Dev-camper/static/js/2.7a817f64.chunk.js.LICENSE.txt",
+    "static/media/image_1.jpg": "/Dev-camper/static/media/image_1.e58f20cb.jpg",
+    "static/media/image_2.jpg": "/Dev-camper/static/media/image_2.9feffbfa.jpg",
+    "static/media/image_3.jpg": "/Dev-camper/static/media/image_3.5daf784d.jpg",
+    "static/media/image_4.jpg": "/Dev-camper/static/media/image_4.13409133.jpg",
+    "static/media/App.scss": "/Dev-camper/static/media/showcase.3fb08057.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.704d472d.js",
+    "static/css/2.daadad96.chunk.css",
+    "static/js/2.7a817f64.chunk.js",
+    "static/css/main.d24cc473.chunk.css",
+    "static/js/main.17d67f7d.chunk.js"
+  ]
+}
