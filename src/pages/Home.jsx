@@ -12,8 +12,8 @@ let Home = ({ history }) => {
             }
         })
     }
+    // < !--Showcase -- >
     return (
-        // < !--Showcase -- >
         <section className="showcase">
             <div className="dark-overlay">
                 <div className="showcase-inner container">

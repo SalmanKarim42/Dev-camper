@@ -4,8 +4,8 @@ import { withRouter } from 'react-router';
 
 let AddCourse = ({ history, ...props }) => {
     console.log(props);
+    // < !--Add Course -- >
     return (
-        // < !--Add Course -- >
         <LayoutSingle>
             <span
                 onClick={() => history.goBack()}

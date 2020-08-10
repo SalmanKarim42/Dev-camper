@@ -2,8 +2,8 @@ import React from 'react';
 import { LayoutSingle } from '../components';
 
 export function Register() {
+    // <!-- Register -->
     return (
-        // <!-- Register -->
         <LayoutSingle >
 
             <h1><i className="fas fa-user-plus"></i> Register</h1>

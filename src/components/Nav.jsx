@@ -5,9 +5,9 @@ import {
 
 let NavBar = ({ location: { pathname } }) => {
     // console.log(props)
+    // < !--Navbar -- >
     return (
 
-        // < !--Navbar -- >
         <nav className={`navbar navbar-expand-md navbar-dark bg-primary ${pathname === "/" ? 'fixed-top' : ''}`}>
             <div className="container">
                 <NavLink className="navbar-brand" exact activeClassName="active" to="/">

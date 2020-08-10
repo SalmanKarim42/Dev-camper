@@ -4,8 +4,8 @@ import { withRouter } from 'react-router';
 
 let UpdatePassword = ({ history, ...props }) => {
     console.log(props);
+    // < !--Update Password -- >
     return (
-        // < !--Update Password -- >
         <LayoutSingle>
             <h1 className="mb-2">Update Password</h1>
             <form>

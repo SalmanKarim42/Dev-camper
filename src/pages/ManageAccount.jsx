@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom';
 
 let ManageAccount = ({ history, ...props }) => {
     console.log(props);
+    // < !--Manage Account -- >
     return (
-        // < !--Manage Account -- >
         <LayoutSingle>
             <h1 className="mb-2">Manage Account</h1>
             <form>

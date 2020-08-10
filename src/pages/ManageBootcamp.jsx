@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 let ManageBootcamp = ({ history }) => {
     const isNull = true;
-    console.log(history)
+    // console.log(history)
     return (
         <LayoutSingle>
             {

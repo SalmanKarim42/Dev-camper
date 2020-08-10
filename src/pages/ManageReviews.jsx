@@ -4,8 +4,8 @@ import { withRouter } from 'react-router';
 import { Link } from 'react-router-dom';
 
 let ManageReview = ({ history }) => {
+    // < !--Manage Review -- >
     return (
-        // < !--Manage Review -- >
         <LayoutSingle>
             <h1 className="mb-4">Manage Reviews</h1>
             <table className="table table-striped">

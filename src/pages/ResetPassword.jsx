@@ -4,8 +4,8 @@ import { withRouter } from 'react-router';
 import { Link } from 'react-router-dom';
 
 let ResetPassword = ({ history }) => {
+    // < !--ResetPassword -- >
     return (
-        // < !--ResetPassword -- >
         <LayoutSingle>
             <span onClick={() => history.goBack()}>Back to login</span>
             <h1 className="mb-2">Reset Password</h1>

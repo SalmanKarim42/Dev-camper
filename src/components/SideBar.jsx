@@ -5,8 +5,8 @@ import {
 
 let SideBar = ({ location: { pathname } }) => {
     // console.log(props)
+    // {/* <!-- Sidebar --> */ }
     return (
-        // {/* <!-- Sidebar --> */ }
         <div className="col-md-4" >
             <div className="card card-body mb-4">
                 <h4 className="mb-3">By Location</h4>

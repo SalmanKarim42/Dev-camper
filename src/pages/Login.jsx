@@ -3,8 +3,8 @@ import { LayoutSingle } from '../components';
 import { Link } from 'react-router-dom';
 
 export function Login() {
+    // < !--Login -- >
     return (
-        // < !--Login -- >
         <LayoutSingle>
 
             <h1><i className="fas fa-sign-in-alt"></i> Login</h1>

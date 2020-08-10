@@ -4,8 +4,8 @@ import { withRouter } from 'react-router';
 
 let AddReview = ({ history, ...props }) => {
     console.log(props);
+    // < !--Add Review -- >
     return (
-        // < !--Add Review -- >
         <LayoutSingle>
 
             <span onClick={() => history.goBack()} className="btn btn-link text-secondary my-3"

@@ -33,8 +33,8 @@ const bootcamps = [
 ]
 let Bootcamps = (props) => {
     // console.log(props)
+    // <!-- Latest bootcamps -->
     return (
-        // <!-- Latest bootcamps -->
         <LayoutDouble>
 
             {/* <!-- Sidebar --> */}
