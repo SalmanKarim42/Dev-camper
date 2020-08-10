@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dace431b400c791605f6a0e2b99c3367",
+    "revision": "659253b8799212184351b3e0f1298446",
     "url": "/Dev-camper/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dev-camper/static/css/2.daadad96.chunk.css"
   },
   {
-    "revision": "c0b45139a36b48e3f914",
+    "revision": "ecf87927f6e0f411679b",
     "url": "/Dev-camper/static/css/main.d24cc473.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dev-camper/static/js/2.7a817f64.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0b45139a36b48e3f914",
-    "url": "/Dev-camper/static/js/main.17d67f7d.chunk.js"
+    "revision": "ecf87927f6e0f411679b",
+    "url": "/Dev-camper/static/js/main.bc05a4d5.chunk.js"
   },
   {
     "revision": "8f8008361f3deca7181c",
