@@ -17,7 +17,8 @@ let ManageAccount = ({ history, ...props }) => {
                         name="title"
                         className="form-control"
                         placeholder="Name"
-                        value="John Doe"
+                        // value="John Doe"
+                        defaultValue="John Doe"
                     />
                 </div>
                 <div className="form-group">
@@ -27,7 +28,8 @@ let ManageAccount = ({ history, ...props }) => {
                         name="email"
                         className="form-control"
                         placeholder="Email"
-                        value="jdoe@gmail.com"
+                        // value="jdoe@gmail.com"
+                        defaultValue="jdoe@gmail.com"
                     />
                 </div>
                 <div className="form-group">

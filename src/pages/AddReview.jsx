@@ -17,7 +17,7 @@ let AddReview = ({ history, ...props }) => {
 							</p>
             <form action="reviews.html">
                 <div className="form-group">
-                    <label for="rating"
+                    <label htmlFor="rating"
                     > Rating: <span className="text-primary">8</span></label>
                     <input
                         type="range"
@@ -25,7 +25,8 @@ let AddReview = ({ history, ...props }) => {
                         min="1"
                         max="10"
                         step="1"
-                        value="8"
+                        // value="8"
+                        defaultValue="8"
                         id="rating"
                     />
                 </div>

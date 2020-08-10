@@ -58,8 +58,8 @@ let SideBar = ({ location: { pathname } }) => {
 
                 <div className="form-group">
                     <label> Rating</label>
-                    <select className="custom-select mb-2">
-                        <option value="any" selected>Any</option>
+                    <select className="custom-select mb-2" defaultValue="any">
+                        <option value="any" >Any</option>
                         <option value="9">9+</option>
                         <option value="8">8+</option>
                         <option value="7">7+</option>
@@ -73,8 +73,8 @@ let SideBar = ({ location: { pathname } }) => {
 
                 <div className="form-group">
                     <label> Budget</label>
-                    <select className="custom-select mb-2">
-                        <option value="any" selected>Any</option>
+                    <select className="custom-select mb-2" defaultValue="any">
+                        <option value="any" >Any</option>
                         <option value="20000">$20,000</option>
                         <option value="15000">$15,000</option>
                         <option value="10000">$10,000</option>

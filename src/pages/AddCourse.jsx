@@ -46,8 +46,8 @@ let AddCourse = ({ history, ...props }) => {
                 </div>
                 <div className="form-group">
                     <label>Minimum Skill Required</label>
-                    <select name="minimumSkill" className="form-control">
-                        <option value="beginner" selected>Beginner (Any)</option>
+                    <select name="minimumSkill" className="form-control" defaultValue="beginner">
+                        <option value="beginner" >Beginner (Any)</option>
                         <option value="intermediate">Intermediate</option>
                         <option value="advanced">Advanced</option>
                     </select>
@@ -58,7 +58,7 @@ let AddCourse = ({ history, ...props }) => {
                         rows="5"
                         className="form-control"
                         placeholder="Course description summary"
-                        maxlength="500"
+                        maxLength="500"
                     ></textarea>
                     <small className="form-text text-muted"
                     >No more than 500 characters</small
@@ -71,7 +71,7 @@ let AddCourse = ({ history, ...props }) => {
                         name="scholarshipAvailable"
                         id="scholarshipAvailable"
                     />
-                    <label className="form-check-label" for="scholarshipAvailable">
+                    <label className="form-check-label" htmlFor="scholarshipAvailable">
                         Scholarship Available
 									</label>
                 </div>

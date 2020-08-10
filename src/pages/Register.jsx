@@ -61,9 +61,11 @@ export function Register() {
                             type="radio"
                             name="role"
                             value="user"
-                            checked
+                            id="user-c"
+                            defaultChecked="user"
+                        // checked
                         />
-                        <label className="form-check-label">
+                        <label htmlFor="user-c" className="form-check-label">
                             Regular User (Browse, Write reviews, etc)
 											</label>
                     </div>
@@ -71,10 +73,11 @@ export function Register() {
                         <input
                             className="form-check-input"
                             type="radio"
+                            id="publisher-c"
                             name="role"
                             value="publisher"
                         />
-                        <label className="form-check-label">
+                        <label htmlFor="publisher-c" className="form-check-label">
                             Bootcamp Publisher
 											</label>
                     </div>

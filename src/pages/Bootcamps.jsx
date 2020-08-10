@@ -32,7 +32,7 @@ const bootcamps = [
     },
 ]
 let Bootcamps = (props) => {
-    console.log(props)
+    // console.log(props)
     return (
         // <!-- Latest bootcamps -->
         <LayoutDouble>
